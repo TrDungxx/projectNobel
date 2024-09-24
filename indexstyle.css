@@ -47,11 +47,6 @@ body {
     margin: 2rem auto; /* Khoảng cách trên và dưới */
     width: 70%;
 }
-.divider2 {
-    height: 1px; /* Độ cao của đường kẻ */
-    background-color: rgb(2, 2, 2); /* Màu đường kẻ */
-    margin: 2rem auto; /* Khoảng cách trên và dưới */
-    width: 30%; /* Chiều rộng của đường kẻ */
-    margin-left: 0; /* Căn lề bên trái */
-}
+
+
 

@@ -1,3 +1,8 @@
+<?php
+$pageTitle = "Header";
+?>
+
+
 <!DOCTYPE html>
 <html lang="vi">
 <head>
